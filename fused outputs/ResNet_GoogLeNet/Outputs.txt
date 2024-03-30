@@ -1,0 +1,430 @@
+Epoch 1/10
+----------
+Batch 0 Loss: 1.1195 Acc: 0.2500
+Batch 10 Loss: 1.0855 Acc: 0.3125
+Batch 20 Loss: 1.0483 Acc: 0.6250
+Batch 30 Loss: 1.0630 Acc: 0.3750
+Batch 40 Loss: 1.0941 Acc: 0.3125
+Batch 50 Loss: 1.0798 Acc: 0.4375
+Batch 60 Loss: 1.0618 Acc: 0.5000
+Batch 70 Loss: 1.0353 Acc: 0.6250
+Batch 80 Loss: 1.0683 Acc: 0.6250
+Batch 90 Loss: 1.0353 Acc: 0.5000
+Batch 100 Loss: 1.0277 Acc: 0.6875
+Batch 110 Loss: 1.0144 Acc: 0.6250
+Batch 120 Loss: 0.9756 Acc: 0.8125
+Batch 130 Loss: 0.9973 Acc: 0.7500
+Batch 140 Loss: 0.9996 Acc: 0.6250
+Batch 150 Loss: 0.9658 Acc: 0.8125
+Batch 160 Loss: 0.9964 Acc: 0.7500
+Batch 170 Loss: 0.9274 Acc: 0.8125
+Batch 180 Loss: 0.9898 Acc: 0.7500
+Batch 190 Loss: 0.9814 Acc: 0.6250
+Batch 200 Loss: 0.9630 Acc: 0.6875
+Batch 210 Loss: 0.9902 Acc: 0.6250
+Batch 220 Loss: 0.9223 Acc: 0.8750
+Batch 230 Loss: 0.9406 Acc: 0.6875
+Batch 240 Loss: 0.9809 Acc: 0.6250
+Batch 250 Loss: 0.9288 Acc: 0.7500
+Batch 260 Loss: 0.9185 Acc: 0.8125
+Batch 270 Loss: 0.9880 Acc: 0.4375
+Batch 280 Loss: 0.9515 Acc: 0.7500
+Batch 290 Loss: 0.8332 Acc: 0.9375
+Batch 300 Loss: 0.8329 Acc: 0.8125
+Batch 310 Loss: 0.8570 Acc: 0.8125
+Batch 320 Loss: 0.8249 Acc: 0.8125
+Batch 330 Loss: 0.9667 Acc: 0.5625
+Batch 340 Loss: 0.8377 Acc: 0.8125
+Batch 350 Loss: 0.8261 Acc: 0.7500
+Batch 360 Loss: 0.9026 Acc: 0.6875
+Batch 370 Loss: 0.8138 Acc: 0.8750
+Epoch Loss: 0.9661 Acc: 0.6568
+Epoch Precision: 0.7184 Recall: 0.6316 F1-score: 0.6026
+
+Epoch 2/10
+----------
+Batch 0 Loss: 0.8754 Acc: 0.6875
+Batch 10 Loss: 0.8477 Acc: 0.8125
+Batch 20 Loss: 0.9139 Acc: 0.4375
+Batch 30 Loss: 0.7192 Acc: 1.0000
+Batch 40 Loss: 0.7881 Acc: 0.8750
+Batch 50 Loss: 0.7653 Acc: 0.8750
+Batch 60 Loss: 0.8021 Acc: 0.8125
+Batch 70 Loss: 0.8006 Acc: 0.9375
+Batch 80 Loss: 0.7717 Acc: 1.0000
+Batch 90 Loss: 0.7810 Acc: 0.7500
+Batch 100 Loss: 0.7890 Acc: 0.8750
+Batch 110 Loss: 0.6995 Acc: 0.8750
+Batch 120 Loss: 0.7564 Acc: 0.8125
+Batch 130 Loss: 0.7909 Acc: 0.7500
+Batch 140 Loss: 0.6799 Acc: 0.9375
+Batch 150 Loss: 0.7331 Acc: 0.9375
+Batch 160 Loss: 0.6649 Acc: 0.9375
+Batch 170 Loss: 0.6963 Acc: 0.9375
+Batch 180 Loss: 0.6590 Acc: 0.9375
+Batch 190 Loss: 0.6928 Acc: 0.9375
+Batch 200 Loss: 0.7190 Acc: 0.8750
+Batch 210 Loss: 0.6899 Acc: 0.9375
+Batch 220 Loss: 0.7562 Acc: 0.8750
+Batch 230 Loss: 0.6712 Acc: 1.0000
+Batch 240 Loss: 0.6632 Acc: 0.8750
+Batch 250 Loss: 0.7249 Acc: 0.8750
+Batch 260 Loss: 0.6870 Acc: 0.9375
+Batch 270 Loss: 0.6716 Acc: 1.0000
+Batch 280 Loss: 0.6500 Acc: 1.0000
+Batch 290 Loss: 0.6521 Acc: 0.9375
+Batch 300 Loss: 0.6828 Acc: 0.8125
+Batch 310 Loss: 0.6476 Acc: 0.9375
+Batch 320 Loss: 0.6339 Acc: 0.9375
+Batch 330 Loss: 0.6535 Acc: 0.9375
+Batch 340 Loss: 0.5960 Acc: 1.0000
+Batch 350 Loss: 0.6980 Acc: 0.8750
+Batch 360 Loss: 0.6601 Acc: 0.9375
+Batch 370 Loss: 0.6932 Acc: 0.9375
+Epoch Loss: 0.7217 Acc: 0.9021
+Epoch Precision: 0.9038 Recall: 0.9008 F1-score: 0.9022
+
+Epoch 3/10
+----------
+Batch 0 Loss: 0.7396 Acc: 0.8125
+Batch 10 Loss: 0.6501 Acc: 0.9375
+Batch 20 Loss: 0.6041 Acc: 1.0000
+Batch 30 Loss: 0.6253 Acc: 1.0000
+Batch 40 Loss: 0.6284 Acc: 0.9375
+Batch 50 Loss: 0.6376 Acc: 0.9375
+Batch 60 Loss: 0.6036 Acc: 1.0000
+Batch 70 Loss: 0.6569 Acc: 0.9375
+Batch 80 Loss: 0.6466 Acc: 0.9375
+Batch 90 Loss: 0.6799 Acc: 0.8750
+Batch 100 Loss: 0.6935 Acc: 0.9375
+Batch 110 Loss: 0.6592 Acc: 0.9375
+Batch 120 Loss: 0.6668 Acc: 0.9375
+Batch 130 Loss: 0.5962 Acc: 1.0000
+Batch 140 Loss: 0.6023 Acc: 1.0000
+Batch 150 Loss: 0.6105 Acc: 1.0000
+Batch 160 Loss: 0.6643 Acc: 0.9375
+Batch 170 Loss: 0.5779 Acc: 1.0000
+Batch 180 Loss: 0.6561 Acc: 0.9375
+Batch 190 Loss: 0.6195 Acc: 1.0000
+Batch 200 Loss: 0.6021 Acc: 1.0000
+Batch 210 Loss: 0.6446 Acc: 0.9375
+Batch 220 Loss: 0.6484 Acc: 0.8750
+Batch 230 Loss: 0.6221 Acc: 1.0000
+Batch 240 Loss: 0.6284 Acc: 0.9375
+Batch 250 Loss: 0.5953 Acc: 1.0000
+Batch 260 Loss: 0.6225 Acc: 0.9375
+Batch 270 Loss: 0.6199 Acc: 1.0000
+Batch 280 Loss: 0.6361 Acc: 0.9375
+Batch 290 Loss: 0.5803 Acc: 1.0000
+Batch 300 Loss: 0.5627 Acc: 1.0000
+Batch 310 Loss: 0.5878 Acc: 1.0000
+Batch 320 Loss: 0.6052 Acc: 0.9375
+Batch 330 Loss: 0.6288 Acc: 1.0000
+Batch 340 Loss: 0.6235 Acc: 1.0000
+Batch 350 Loss: 0.5919 Acc: 1.0000
+Batch 360 Loss: 0.5847 Acc: 1.0000
+Batch 370 Loss: 0.5990 Acc: 1.0000
+Epoch Loss: 0.6227 Acc: 0.9614
+Epoch Precision: 0.9601 Recall: 0.9624 F1-score: 0.9612
+
+Epoch 4/10
+----------
+Batch 0 Loss: 0.5861 Acc: 1.0000
+Batch 10 Loss: 0.5649 Acc: 1.0000
+Batch 20 Loss: 0.5939 Acc: 1.0000
+Batch 30 Loss: 0.5982 Acc: 0.9375
+Batch 40 Loss: 0.6944 Acc: 0.8750
+Batch 50 Loss: 0.6058 Acc: 0.9375
+Batch 60 Loss: 0.5684 Acc: 1.0000
+Batch 70 Loss: 0.5720 Acc: 1.0000
+Batch 80 Loss: 0.6448 Acc: 0.9375
+Batch 90 Loss: 0.5805 Acc: 1.0000
+Batch 100 Loss: 0.6457 Acc: 0.9375
+Batch 110 Loss: 0.5835 Acc: 1.0000
+Batch 120 Loss: 0.5760 Acc: 1.0000
+Batch 130 Loss: 0.5764 Acc: 1.0000
+Batch 140 Loss: 0.6038 Acc: 1.0000
+Batch 150 Loss: 0.6057 Acc: 0.9375
+Batch 160 Loss: 0.5680 Acc: 1.0000
+Batch 170 Loss: 0.5905 Acc: 1.0000
+Batch 180 Loss: 0.5592 Acc: 1.0000
+Batch 190 Loss: 0.6515 Acc: 0.8750
+Batch 200 Loss: 0.5677 Acc: 1.0000
+Batch 210 Loss: 0.5660 Acc: 1.0000
+Batch 220 Loss: 0.5699 Acc: 1.0000
+Batch 230 Loss: 0.5682 Acc: 1.0000
+Batch 240 Loss: 0.5692 Acc: 1.0000
+Batch 250 Loss: 0.5597 Acc: 1.0000
+Batch 260 Loss: 0.6041 Acc: 1.0000
+Batch 270 Loss: 0.5640 Acc: 1.0000
+Batch 280 Loss: 0.5690 Acc: 1.0000
+Batch 290 Loss: 0.5571 Acc: 1.0000
+Batch 300 Loss: 0.5588 Acc: 1.0000
+Batch 310 Loss: 0.5653 Acc: 1.0000
+Batch 320 Loss: 0.5891 Acc: 1.0000
+Batch 330 Loss: 0.5722 Acc: 1.0000
+Batch 340 Loss: 0.6615 Acc: 0.8750
+Batch 350 Loss: 0.5793 Acc: 1.0000
+Batch 360 Loss: 0.5691 Acc: 1.0000
+Batch 370 Loss: 0.5811 Acc: 1.0000
+Epoch Loss: 0.5914 Acc: 0.9806
+Epoch Precision: 0.9801 Recall: 0.9808 F1-score: 0.9805
+
+Epoch 5/10
+----------
+Batch 0 Loss: 0.5826 Acc: 1.0000
+Batch 10 Loss: 0.6114 Acc: 0.9375
+Batch 20 Loss: 0.5616 Acc: 1.0000
+Batch 30 Loss: 0.5891 Acc: 1.0000
+Batch 40 Loss: 0.5560 Acc: 1.0000
+Batch 50 Loss: 0.5583 Acc: 1.0000
+Batch 60 Loss: 0.6129 Acc: 1.0000
+Batch 70 Loss: 0.5692 Acc: 1.0000
+Batch 80 Loss: 0.5560 Acc: 1.0000
+Batch 90 Loss: 0.5606 Acc: 1.0000
+Batch 100 Loss: 0.5570 Acc: 1.0000
+Batch 110 Loss: 0.5594 Acc: 1.0000
+Batch 120 Loss: 0.6098 Acc: 0.9375
+Batch 130 Loss: 0.5646 Acc: 1.0000
+Batch 140 Loss: 0.6155 Acc: 0.9375
+Batch 150 Loss: 0.5616 Acc: 1.0000
+Batch 160 Loss: 0.5609 Acc: 1.0000
+Batch 170 Loss: 0.5689 Acc: 1.0000
+Batch 180 Loss: 0.5629 Acc: 1.0000
+Batch 190 Loss: 0.5684 Acc: 1.0000
+Batch 200 Loss: 0.5674 Acc: 1.0000
+Batch 210 Loss: 0.5597 Acc: 1.0000
+Batch 220 Loss: 0.6261 Acc: 0.9375
+Batch 230 Loss: 0.5624 Acc: 1.0000
+Batch 240 Loss: 0.5602 Acc: 1.0000
+Batch 250 Loss: 0.5646 Acc: 1.0000
+Batch 260 Loss: 0.5659 Acc: 1.0000
+Batch 270 Loss: 0.5613 Acc: 1.0000
+Batch 280 Loss: 0.5548 Acc: 1.0000
+Batch 290 Loss: 0.5648 Acc: 1.0000
+Batch 300 Loss: 0.5864 Acc: 0.9375
+Batch 310 Loss: 0.5556 Acc: 1.0000
+Batch 320 Loss: 0.5539 Acc: 1.0000
+Batch 330 Loss: 0.5587 Acc: 1.0000
+Batch 340 Loss: 0.5550 Acc: 1.0000
+Batch 350 Loss: 0.5673 Acc: 1.0000
+Batch 360 Loss: 0.5535 Acc: 1.0000
+Batch 370 Loss: 0.5689 Acc: 1.0000
+Epoch Loss: 0.5747 Acc: 0.9892
+Epoch Precision: 0.9890 Recall: 0.9888 F1-score: 0.9889
+
+Epoch 6/10
+----------
+Batch 0 Loss: 0.5750 Acc: 1.0000
+Batch 10 Loss: 0.5586 Acc: 1.0000
+Batch 20 Loss: 0.6653 Acc: 0.9375
+Batch 30 Loss: 0.5600 Acc: 1.0000
+Batch 40 Loss: 0.5542 Acc: 1.0000
+Batch 50 Loss: 0.5602 Acc: 1.0000
+Batch 60 Loss: 0.5554 Acc: 1.0000
+Batch 70 Loss: 0.5623 Acc: 1.0000
+Batch 80 Loss: 0.5638 Acc: 1.0000
+Batch 90 Loss: 0.5987 Acc: 1.0000
+Batch 100 Loss: 0.5578 Acc: 1.0000
+Batch 110 Loss: 0.5672 Acc: 1.0000
+Batch 120 Loss: 0.5599 Acc: 1.0000
+Batch 130 Loss: 0.5584 Acc: 1.0000
+Batch 140 Loss: 0.5542 Acc: 1.0000
+Batch 150 Loss: 0.5552 Acc: 1.0000
+Batch 160 Loss: 0.5565 Acc: 1.0000
+Batch 170 Loss: 0.5735 Acc: 1.0000
+Batch 180 Loss: 0.6177 Acc: 0.9375
+Batch 190 Loss: 0.5837 Acc: 1.0000
+Batch 200 Loss: 0.5563 Acc: 1.0000
+Batch 210 Loss: 0.5833 Acc: 1.0000
+Batch 220 Loss: 0.5587 Acc: 1.0000
+Batch 230 Loss: 0.5607 Acc: 1.0000
+Batch 240 Loss: 0.5731 Acc: 1.0000
+Batch 250 Loss: 0.5557 Acc: 1.0000
+Batch 260 Loss: 0.5541 Acc: 1.0000
+Batch 270 Loss: 0.5697 Acc: 1.0000
+Batch 280 Loss: 0.5531 Acc: 1.0000
+Batch 290 Loss: 0.5639 Acc: 1.0000
+Batch 300 Loss: 0.5996 Acc: 0.9375
+Batch 310 Loss: 0.5769 Acc: 1.0000
+Batch 320 Loss: 0.5578 Acc: 1.0000
+Batch 330 Loss: 0.5863 Acc: 1.0000
+Batch 340 Loss: 0.5582 Acc: 1.0000
+Batch 350 Loss: 0.5656 Acc: 1.0000
+Batch 360 Loss: 0.5626 Acc: 1.0000
+Batch 370 Loss: 0.5696 Acc: 1.0000
+Epoch Loss: 0.5687 Acc: 0.9924
+Epoch Precision: 0.9921 Recall: 0.9920 F1-score: 0.9920
+
+Epoch 7/10
+----------
+Batch 0 Loss: 0.6633 Acc: 0.8750
+Batch 10 Loss: 0.5535 Acc: 1.0000
+Batch 20 Loss: 0.5936 Acc: 0.9375
+Batch 30 Loss: 0.5530 Acc: 1.0000
+Batch 40 Loss: 0.5751 Acc: 1.0000
+Batch 50 Loss: 0.5636 Acc: 1.0000
+Batch 60 Loss: 0.5675 Acc: 1.0000
+Batch 70 Loss: 0.6255 Acc: 0.8750
+Batch 80 Loss: 0.5579 Acc: 1.0000
+Batch 90 Loss: 0.5580 Acc: 1.0000
+Batch 100 Loss: 0.5539 Acc: 1.0000
+Batch 110 Loss: 0.5527 Acc: 1.0000
+Batch 120 Loss: 0.5552 Acc: 1.0000
+Batch 130 Loss: 0.5547 Acc: 1.0000
+Batch 140 Loss: 0.5557 Acc: 1.0000
+Batch 150 Loss: 0.5610 Acc: 1.0000
+Batch 160 Loss: 0.5534 Acc: 1.0000
+Batch 170 Loss: 0.5538 Acc: 1.0000
+Batch 180 Loss: 0.5533 Acc: 1.0000
+Batch 190 Loss: 0.5589 Acc: 1.0000
+Batch 200 Loss: 0.5557 Acc: 1.0000
+Batch 210 Loss: 0.5564 Acc: 1.0000
+Batch 220 Loss: 0.5525 Acc: 1.0000
+Batch 230 Loss: 0.5701 Acc: 1.0000
+Batch 240 Loss: 0.5556 Acc: 1.0000
+Batch 250 Loss: 0.5545 Acc: 1.0000
+Batch 260 Loss: 0.5640 Acc: 1.0000
+Batch 270 Loss: 0.5752 Acc: 1.0000
+Batch 280 Loss: 0.5562 Acc: 1.0000
+Batch 290 Loss: 0.5588 Acc: 1.0000
+Batch 300 Loss: 0.5612 Acc: 1.0000
+Batch 310 Loss: 0.6281 Acc: 0.9375
+Batch 320 Loss: 0.5605 Acc: 1.0000
+Batch 330 Loss: 0.5555 Acc: 1.0000
+Batch 340 Loss: 0.5556 Acc: 1.0000
+Batch 350 Loss: 0.5552 Acc: 1.0000
+Batch 360 Loss: 0.5736 Acc: 1.0000
+Batch 370 Loss: 0.5549 Acc: 1.0000
+Epoch Loss: 0.5641 Acc: 0.9942
+Epoch Precision: 0.9943 Recall: 0.9940 F1-score: 0.9942
+
+Epoch 8/10
+----------
+Batch 0 Loss: 0.5541 Acc: 1.0000
+Batch 10 Loss: 0.5554 Acc: 1.0000
+Batch 20 Loss: 0.5523 Acc: 1.0000
+Batch 30 Loss: 0.5583 Acc: 1.0000
+Batch 40 Loss: 0.5588 Acc: 1.0000
+Batch 50 Loss: 0.5709 Acc: 1.0000
+Batch 60 Loss: 0.5527 Acc: 1.0000
+Batch 70 Loss: 0.5529 Acc: 1.0000
+Batch 80 Loss: 0.5594 Acc: 1.0000
+Batch 90 Loss: 0.6117 Acc: 0.9375
+Batch 100 Loss: 0.5574 Acc: 1.0000
+Batch 110 Loss: 0.5531 Acc: 1.0000
+Batch 120 Loss: 0.5538 Acc: 1.0000
+Batch 130 Loss: 0.5542 Acc: 1.0000
+Batch 140 Loss: 0.5538 Acc: 1.0000
+Batch 150 Loss: 0.5584 Acc: 1.0000
+Batch 160 Loss: 0.5521 Acc: 1.0000
+Batch 170 Loss: 0.5522 Acc: 1.0000
+Batch 180 Loss: 0.5548 Acc: 1.0000
+Batch 190 Loss: 0.5540 Acc: 1.0000
+Batch 200 Loss: 0.5525 Acc: 1.0000
+Batch 210 Loss: 0.5607 Acc: 1.0000
+Batch 220 Loss: 0.5525 Acc: 1.0000
+Batch 230 Loss: 0.5551 Acc: 1.0000
+Batch 240 Loss: 0.5608 Acc: 1.0000
+Batch 250 Loss: 0.5550 Acc: 1.0000
+Batch 260 Loss: 0.5533 Acc: 1.0000
+Batch 270 Loss: 0.5531 Acc: 1.0000
+Batch 280 Loss: 0.5524 Acc: 1.0000
+Batch 290 Loss: 0.5571 Acc: 1.0000
+Batch 300 Loss: 0.5534 Acc: 1.0000
+Batch 310 Loss: 0.5539 Acc: 1.0000
+Batch 320 Loss: 0.5525 Acc: 1.0000
+Batch 330 Loss: 0.5536 Acc: 1.0000
+Batch 340 Loss: 0.5618 Acc: 1.0000
+Batch 350 Loss: 0.5545 Acc: 1.0000
+Batch 360 Loss: 0.5591 Acc: 1.0000
+Batch 370 Loss: 0.5739 Acc: 1.0000
+Epoch Loss: 0.5602 Acc: 0.9970
+Epoch Precision: 0.9972 Recall: 0.9966 F1-score: 0.9969
+
+Epoch 9/10
+----------
+Batch 0 Loss: 0.5534 Acc: 1.0000
+Batch 10 Loss: 0.5667 Acc: 1.0000
+Batch 20 Loss: 0.5524 Acc: 1.0000
+Batch 30 Loss: 0.5532 Acc: 1.0000
+Batch 40 Loss: 0.5545 Acc: 1.0000
+Batch 50 Loss: 0.5609 Acc: 1.0000
+Batch 60 Loss: 0.5522 Acc: 1.0000
+Batch 70 Loss: 0.5537 Acc: 1.0000
+Batch 80 Loss: 0.5578 Acc: 1.0000
+Batch 90 Loss: 0.5532 Acc: 1.0000
+Batch 100 Loss: 0.5571 Acc: 1.0000
+Batch 110 Loss: 0.5528 Acc: 1.0000
+Batch 120 Loss: 0.5531 Acc: 1.0000
+Batch 130 Loss: 0.5643 Acc: 1.0000
+Batch 140 Loss: 0.5536 Acc: 1.0000
+Batch 150 Loss: 0.5535 Acc: 1.0000
+Batch 160 Loss: 0.5542 Acc: 1.0000
+Batch 170 Loss: 0.5532 Acc: 1.0000
+Batch 180 Loss: 0.5563 Acc: 1.0000
+Batch 190 Loss: 0.5552 Acc: 1.0000
+Batch 200 Loss: 0.5579 Acc: 1.0000
+Batch 210 Loss: 0.5527 Acc: 1.0000
+Batch 220 Loss: 0.5522 Acc: 1.0000
+Batch 230 Loss: 0.5527 Acc: 1.0000
+Batch 240 Loss: 0.5542 Acc: 1.0000
+Batch 250 Loss: 0.5535 Acc: 1.0000
+Batch 260 Loss: 0.5528 Acc: 1.0000
+Batch 270 Loss: 0.5587 Acc: 1.0000
+Batch 280 Loss: 0.5537 Acc: 1.0000
+Batch 290 Loss: 0.5538 Acc: 1.0000
+Batch 300 Loss: 0.5529 Acc: 1.0000
+Batch 310 Loss: 0.6021 Acc: 0.9375
+Batch 320 Loss: 0.5522 Acc: 1.0000
+Batch 330 Loss: 0.5605 Acc: 1.0000
+Batch 340 Loss: 0.5562 Acc: 1.0000
+Batch 350 Loss: 0.5523 Acc: 1.0000
+Batch 360 Loss: 0.5531 Acc: 1.0000
+Batch 370 Loss: 0.5527 Acc: 1.0000
+Epoch Loss: 0.5590 Acc: 0.9967
+Epoch Precision: 0.9963 Recall: 0.9968 F1-score: 0.9966
+
+Epoch 10/10
+----------
+Batch 0 Loss: 0.5527 Acc: 1.0000
+Batch 10 Loss: 0.5581 Acc: 1.0000
+Batch 20 Loss: 0.5539 Acc: 1.0000
+Batch 30 Loss: 0.5770 Acc: 1.0000
+Batch 40 Loss: 0.5580 Acc: 1.0000
+Batch 50 Loss: 0.5586 Acc: 1.0000
+Batch 60 Loss: 0.5520 Acc: 1.0000
+Batch 70 Loss: 0.5721 Acc: 1.0000
+Batch 80 Loss: 0.5523 Acc: 1.0000
+Batch 90 Loss: 0.5524 Acc: 1.0000
+Batch 100 Loss: 0.5542 Acc: 1.0000
+Batch 110 Loss: 0.5531 Acc: 1.0000
+Batch 120 Loss: 0.5554 Acc: 1.0000
+Batch 130 Loss: 0.5542 Acc: 1.0000
+Batch 140 Loss: 0.5519 Acc: 1.0000
+Batch 150 Loss: 0.5629 Acc: 1.0000
+Batch 160 Loss: 0.5526 Acc: 1.0000
+Batch 170 Loss: 0.5520 Acc: 1.0000
+Batch 180 Loss: 0.5528 Acc: 1.0000
+Batch 190 Loss: 0.5523 Acc: 1.0000
+Batch 200 Loss: 0.5959 Acc: 1.0000
+Batch 210 Loss: 0.5740 Acc: 1.0000
+Batch 220 Loss: 0.5526 Acc: 1.0000
+Batch 230 Loss: 0.5534 Acc: 1.0000
+Batch 240 Loss: 0.5537 Acc: 1.0000
+Batch 250 Loss: 0.5561 Acc: 1.0000
+Batch 260 Loss: 0.5527 Acc: 1.0000
+Batch 270 Loss: 0.5605 Acc: 1.0000
+Batch 280 Loss: 0.5534 Acc: 1.0000
+Batch 290 Loss: 0.5585 Acc: 1.0000
+Batch 300 Loss: 0.5520 Acc: 1.0000
+Batch 310 Loss: 0.5524 Acc: 1.0000
+Batch 320 Loss: 0.5545 Acc: 1.0000
+Batch 330 Loss: 0.5640 Acc: 1.0000
+Batch 340 Loss: 0.5532 Acc: 1.0000
+Batch 350 Loss: 0.5526 Acc: 1.0000
+Batch 360 Loss: 0.5542 Acc: 1.0000
+Batch 370 Loss: 0.5550 Acc: 1.0000
+Epoch Loss: 0.5588 Acc: 0.9970
+Epoch Precision: 0.9969 Recall: 0.9970 F1-score: 0.9970
+
