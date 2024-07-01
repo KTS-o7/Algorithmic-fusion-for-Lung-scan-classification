@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+dill
+torch
+torchvision
+scikit-learn
