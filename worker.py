@@ -39,10 +39,10 @@ class Concatenate(nn.Module):
         x2 = x2.view(x2.size(0), -1)
         return torch.cat((x1, x2), dim=1)
 
-# Define your fusedModel class
-class fusedModel(nn.Module):
+# Define your FusedModel class
+class FusedModel(nn.Module):
     def __init__(self, concatenated, output):
-        super(fusedModel, self).__init__()
+        super(FusedModel, self).__init__()
         self.concatenated = concatenated
         self.output = output
 
@@ -53,7 +53,7 @@ class fusedModel(nn.Module):
 
 # Define a function to create the fused model
 def create_fused_model(concatenated, output):
-    return fusedModel(concatenated, output)
+    return FusedModel(concatenated, output)
 
 # Define the output layer
 output = nn.Sequential(
@@ -73,7 +73,7 @@ fused_model = create_fused_model(concatenated, output)
 def load_model(model_path,multi = True):
     if multi:
         # Load the saved model state dictionary
-        with open('newfusedModels/model.pth', 'rb') as f:
+        with open('newFusedModels/model.pth', 'rb') as f:
             model = torch.load(f,map_location=torch.device('cpu'),pickle_module=dill)
         return model
     else:
@@ -112,7 +112,7 @@ def get_output_class(model, image):
     return output_class
 
 # Load the pre-trained model
-model_path = 'models/fusedModels/GoogLeNet_DenseNet.pth'
+model_path = 'models/FusedModels/GoogLeNet_DenseNet.pth'
 model = load_model(model_path,multi=True)
 modelName = 'vgg19_model'
 model.eval()
